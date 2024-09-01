@@ -56,3 +56,6 @@ Implement AWS Budgets to track and manage costs.
 ![Infastructure Design](Infastructure-Design.png)
 ### 2. Terraform Infarstructure as a code 
 Refer this repository
+### 3. Link refer from LAB:
+https://auto.io.vn/2-hands-on/2.2-build-zero-downtime-application/
+
